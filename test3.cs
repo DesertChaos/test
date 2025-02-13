@@ -30,7 +30,6 @@ namespace ConsoleApp3
                     Console.WriteLine("Неверно");                   
                     goto start;
             }
-
         }
     }
 }
